@@ -34,3 +34,23 @@ hibernate-image-storage
 │   │   └── resources
 │   │       └── hibernate.cfg.xml
 └── pom.xml
+
+
+
+
+![image](https://github.com/user-attachments/assets/6554472f-32e7-42fb-92bb-6cb6ca207e45)
+
+
+![image](https://github.com/user-attachments/assets/84a1f5b6-544b-4157-b071-248c5ceaf3c4)
+
+
+![image](https://github.com/user-attachments/assets/fc7ac073-c0ad-4293-bd0e-0cb09f6a0808)
+
+
+![image](https://github.com/user-attachments/assets/e2898552-2824-462b-a182-964c50417d89)
+
+
+![image](https://github.com/user-attachments/assets/f8421698-39af-43b6-9327-77d6ec9d066c)
+
+
+
