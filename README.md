@@ -18,7 +18,9 @@ This project demonstrates how to use Hibernate to create a database table and st
 
 3. MySQL (or any other preferred RDBMS)
 
-4. Hibernate
+4. Hibernate 4.1.6 or higher
+
+5. MySQL connector 9.0.0
 
 
 hibernate-image-storage
